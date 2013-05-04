@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>A Taste of Saskatchewan</string>
+		<key>image</key>
+		<string>taste-of-sask</string>
+		<key>tech</key>
+		<string>Calendar Events			Remote UpdatesInstagram Feed			Event MapOffline Browsing</string>
+		<key>details</key>
+		<string>Created in partnership with the committee behind A Taste of Saskatchewan, the app is Saskatoon and area&apos;s go-to source for information about the annual event. Development and design done by myself.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Cabinet Reader</string>
+		<key>image</key>
+		<string>cabinet-reader</string>
+		<key>tech</key>
+		<string>Private Key Encrypted DocumentsStrictly Enforced Keychain CredentialsAirWatch MDM 			PSPDFKit</string>
+		<key>details</key>
+		<string>Developed with the help of many over two and a half years, I’ve been a core part of bringing the digital age to the Cabinet of Saskatchewan, accelerating the process of getting thousands of users’ documents to Saskatchewan Ministers.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Trade in Values Canada</string>
+		<key>image</key>
+		<string>trade-in-values</string>
+		<key>tech</key>
+		<string>Core Data 			User AuthenticationBackground Downloading of UpdatesAccount Synchronization with tivs.ca</string>
+		<key>details</key>
+		<string>My first foray into iOS development, the app is starting to show its age. Developed and designed for a side project of mine, tivs.ca displays crowd-sourced video game trade in values from National retailers across Canada.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>myViterra</string>
+		<key>image</key>
+		<string>my-viterra</string>
+		<key>tech</key>
+		<string>Core Data				User AuthenticationKeychain Storage	API IntegrationMade for iPhone, iPod touch and iPad</string>
+		<key>details</key>
+		<string>Developed with a team of four, myViterra allows for farmers to remotely view live updates for commodity prices at nearly a hundred locations throughout North America. Additionally, some design work was done by myself.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>The Beermometer</string>
+		<key>image</key>
+		<string>beermometer</string>
+		<key>tech</key>
+		<string>Push Notifications		Twitter IntegrationText Messages			Email NotificationsWeather Retrieval for User’s Location</string>
+		<key>details</key>
+		<string>Initially created as a school project, The Beermometer spawned from an exploding case of beer left in a snowbank. It uses Newton’s Law of Cooling to alert the user when their beer has reached the desired temperature.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Strokes</string>
+		<key>image</key>
+		<string>strokes</string>
+		<key>tech</key>
+		<string>Powered by Parse		Online Course List
+Facebook Sharing		Intuitive Interface
+Shows Four Nearest Courses to User</string>
+		<key>details</key>
+		<string>Created as a solo project, I both designed and developed the application as an elegant score tracker for both golf and mini-golf. Strokes has been optimized for the iPhone 5 screen, and features extensive use of animations.</string>
+	</dict>
+</array>
+</plist>
